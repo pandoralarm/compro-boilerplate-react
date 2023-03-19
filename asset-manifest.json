@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pandoralarm/static/css/main.78294792.css",
+    "main.js": "/pandoralarm/static/js/main.df952b31.js",
+    "static/media/video.mp4": "/pandoralarm/static/media/video.85feb9437f9109b4e42a.mp4",
+    "static/media/card3.png": "/pandoralarm/static/media/card3.6909c4ada4504482d7f1.png",
+    "static/media/img1.png": "/pandoralarm/static/media/img1.3f55b7b7762f8b209d54.png",
+    "static/media/card1.png": "/pandoralarm/static/media/card1.3eb61fbfa8dc4fdf4520.png",
+    "static/media/card2.png": "/pandoralarm/static/media/card2.52f1e7a80ecc5ba2064c.png",
+    "index.html": "/pandoralarm/index.html",
+    "main.78294792.css.map": "/pandoralarm/static/css/main.78294792.css.map",
+    "main.df952b31.js.map": "/pandoralarm/static/js/main.df952b31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78294792.css",
+    "static/js/main.df952b31.js"
+  ]
+}
